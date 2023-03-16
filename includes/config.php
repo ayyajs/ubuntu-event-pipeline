@@ -7,7 +7,7 @@
 
     $global_config["DBHost"]            =   "localhost";
     $global_config["DBUserName"]        =   "root"; 
-    $global_config["DBPassword"]        =   "dmb8)USTTVTyK4Zifzr(}#NZ]v<-<n";
+    $global_config["DBPassword"]        =   "FEEREN5nKQ23JbsTQ";
     $global_config["DBDatabaseName"]    =   "event-db";
     $global_config["DBTablePrefix"]     =   "tbl_";
 ?>
