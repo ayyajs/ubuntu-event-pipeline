@@ -1,3 +1,3 @@
 <?php
-	echo "new file";
+	date("Y-m-d H:i:s");
 ?>
